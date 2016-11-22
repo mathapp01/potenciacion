@@ -1,0 +1,61 @@
+[
+	{
+		"pregunta": "¿Cuál es la definición de Potenciación?",
+		"contestada": false,
+		"opciones"	:["Es la operación en la que se multiplican dos numeros decimales periodicos",
+		"Es una forma abreviada de escribir un producto formado por varios factores iguales",
+		"Es cuando se eleva un numero decimal negativo a cero",
+		"Ninguna de las anteriores"
+	],
+		"correcta"	: 2
+	},
+
+
+	{
+		"pregunta" 	: "¿Cuál es la definición de base de una Potencia?",
+		"opciones"	: ["Es el número entero que multiplicamos por sí mismo", "Es el factor de los exponentes ",
+			 "Es el resultado de multiplicar bases por exponentes", "La b y la c son correctas"],
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "¿Cuál es la definición de exponente de una Potencia?",
+		"opciones"	: ["Es el indice inferior que indica las veces que se suma una base", "Es el numero a la izquiera que nos indica las veces que se restan las bases",
+			 "Es el indice superior que indica el número de veces que multiplicamos la base", "Ninguna de las anteriores"],
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "¿Cuál es el resultado de elevar (a,b,c,1,2,3..etc) ¨cualquier base¨ al exponente 0 :",
+		"opciones"	: ["la misma base", "0", "Un número negativo", "La unidad"],
+		"correcta"	: 4
+	},
+	{
+		"pregunta" 	: "Para el producto de ¨3^5 · 3^2¨ el resultado es:",
+		"opciones"	: ["3^2", "128", "3^7", "Ninguna de las anteriores"],
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "¿Cual es la mejor manera de expresar ¨(a^m)^n = ¨ ?",
+		"opciones"	: ["a^(m+n)", "m^(a-n)", "a^(m.n)", "n^(m-a+n)"],
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "¨a^n . b^n¨ es igua a:",
+		"opciones"	: ["(a-b)^n", "(a.b)^n", "(a^n - n^b)", "n^(a.b)"],
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "¨a^-n¨ es igual a: ",
+		"opciones"	: ["0", "Si a es igual a un numero decimal negativo a: 1 + [(a^n) - n]", "(a^n)/n+1", "Si a es # de 0: 1/a^n"],
+		"correcta"	: 4
+	},
+	{
+		"pregunta" 	: "Para el siguiente ejercicio ¿cuál es la respuesta (2^-3)?",
+		"opciones"	: ["(2 - 3)^3= 1", "1/2^3 = 1/8", "(2^3) - (3^2) = 19", "(2 . 3) + (2 - 3)"],
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "¿A que es igual ¨a^(m/n)¨ ? :",
+		"opciones"	: ["Raiz (n) de a^m","Logaritmo (n) de a subindice m", "Raiz (a) de n^m", "Ninguna de las anteriores"],
+		"correcta"	: 1
+	}
+]
